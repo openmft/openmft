@@ -1,16 +1,20 @@
-### Hi there 👋
+#OpenMFT
 
-<!--
-**openmft/openmft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## OpenMFT - The world's first opensource application framework that integrates natively with IBM Sterling File Gateway, Axway, etc. 
 
-Here are some ideas to get you started:
+OpenMFT is designed from the ground up to simplify on-boarding, enable global processing if needed, gaurantee delivery despite failures in communications channels across protocols like SFTP, Connect:Direct, etc and provide granular traceability of information processed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Documentation -> https://docs.openmft.org
+
+#Quick Start 
+## Install pre-requisites (https://docs.openmft.org/openmft/install/pre-requisites)
+## Download and stage the OpenMFT software (https://docs.openmft.org/openmft/install/download-openmft)
+## Install OpenMFT (https://docs.openmft.org/openmft/install/install-openmft)
+## Install and run Industry scenarios
+### Retail -> https://docs.openmft.org/openmft/user-manual/scenarios#6-1-retail-scenario
+### Healthcare -> https://docs.openmft.org/openmft/user-manual/scenarios#6-2-healthcare-scenario
+### Banking -> https://docs.openmft.org/openmft/user-manual/scenarios#6-3-banking-scenario
+### Logistics -> https://docs.openmft.org/openmft/user-manual/scenarios#6-4-logistics-scenario
+ 
+- 📫 How to reach us: support@openmft.org
+- 💬 Find us online: https://discord.gg/vWf8QhQ
