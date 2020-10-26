@@ -16,5 +16,5 @@ OpenMFT is designed from the ground up to simplify on-boarding, enable global pr
 * Banking -> https://docs.openmft.org/openmft/user-manual/scenarios#6-3-banking-scenario
 * Logistics -> https://docs.openmft.org/openmft/user-manual/scenarios#6-4-logistics-scenario
  
-- 📫 How to reach us: support@openmft.org
 - 💬 Find us online: https://discord.gg/vWf8QhQ
+- 📫 How to reach us: support@openmft.org
