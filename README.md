@@ -2,7 +2,7 @@
 
 ## OpenMFT - The world's first opensource application framework that integrates natively with IBM Sterling File Gateway, Axway, etc. 
 
-OpenMFT is designed from the ground up to simplify on-boarding, enable global processing if needed, gaurantee delivery despite failures in communications channels across protocols like SFTP, Connect:Direct, etc and provide granular traceability of information processed.
+OpenMFT is designed from the ground up to simplify on-boarding, enable global processing if needed, gaurantee delivery despite failures in communication channels across protocols like SFTP, Connect:Direct, etc and provide granular traceability of information processed.
 
 - Documentation -> https://docs.openmft.org
 
